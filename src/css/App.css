@@ -1,0 +1,25 @@
+.video1 {
+  height: 300px;
+  width: 550px;
+  background-color: green; 
+  justify-content: center;
+  margin-right: auto;
+  margin-top: auto;
+  position: absolute;
+  top: auto;
+}
+
+.video2 {
+  height: 300px;
+  width: 550px;
+  background-color: rgb(199, 66, 18); 
+  justify-content: center;
+  margin-left: auto;
+}
+
+.html{
+  background-color: antiquewhite;
+}
+.app{
+  background-color: aquamarine;
+}
